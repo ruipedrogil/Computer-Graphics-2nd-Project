@@ -50,7 +50,7 @@ This project simulates a Star Wars-inspired 3D scene where two spaceships depart
 ## Screenshots
 
 | Hangar | Millennium Falcon | T-65 Fighter | Two Hangars | Scene |
-|----------|----------------------|----------------|
+|--------|-------------------|--------------|-------------|-------|
 | <img src="images/hangar.png" alt="Hangar" width="300"> | <img src="images/millenium.png" alt="Millennium Falcon" width="300"> | <img src="images/t65.png" alt="T-65 Fighter" width="300"> | <img src="images/two_hangars.png" alt="Two Hangars" width="300"> | <img src="images/scene.png" alt="Scene" width="300">
 
 ---
